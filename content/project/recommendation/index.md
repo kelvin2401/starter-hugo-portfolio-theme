@@ -1,6 +1,6 @@
 ---
-title: Recommendation Systems
-summary: Write about your project here...
+title: Sentiment Analysis of Amazon Food Reviews
+summary: Supervised Learning Methods, VADER and RoBERTa Model
 tags:
   - ML
 date: 2022-01-01
